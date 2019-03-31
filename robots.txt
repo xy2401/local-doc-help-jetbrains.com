@@ -1,0 +1,47 @@
+User-Agent: *
+# Global
+disallow: */search/
+disallow: */shop/
+disallow: */eshop*
+disallow: */estore*
+disallow: */unitrun*
+disallow: */specials/
+disallow: */languages/
+disallow: */download-thanks
+disallow: */download/download_thanks.jsp
+
+disallow: */de-de/
+disallow: */es-es/
+disallow: */fr-fr/
+disallow: */ja-jp/
+disallow: */ko-kr/
+disallow: */ru-ru/
+disallow: */zh-cn/
+
+# Sitemaps
+sitemap: https://www.jetbrains.com/sitemap_index.xml
+sitemap: https://www.jetbrains.com/sitemap_support_index.xml
+# AppCode
+# CLion
+# DataGrip
+# dotCover
+# dotMemory
+# dotPeak
+# dotTrace
+# Hub
+# Idea
+# MPS
+# PhpStorm
+# PyCharm
+# PyCharm Edu
+# ReSharper
+# ReSharper С++
+# Rider
+# RubyMine
+# TeamCity
+# Upsource
+# WebStorm
+# YouTrack
+disallow: */display/YTD65/
+disallow: */display/YTD6/
+disallow: */display/YTHB/

@@ -1,0 +1,75 @@
+
+            {
+            
+            
+            "productId": "webstorm",
+            "showDownloadButton": true,
+            "feedbackRequireEmail": true,
+            "productVersion": "2019.1",
+            "fallbackUrl": "https://www.jetbrains.com/help/webstorm/",
+            "productName": "WebStorm",
+            "downloadPage": "https://www.jetbrains.com/webstorm/download/",
+            "searchScope": "webstorm-help",
+            "stage":"release",
+            "searchService": "https://data.services.jetbrains.com/search/",
+            "disqusID": "jetbrains",
+            "showDisqus": false,
+            "feedbackWidget": true,
+            "feedbackUrl": "http://preprod-data.services.jetbrains.com/feedback",
+            "feedbackSupport": "https://intellij-support.jetbrains.com/hc/en-us/?webstorm",
+            "useSideblocks": true,
+            "webmaster": "webmaster@jetbrains.com",
+            "keymaps" : {
+            
+                "primary":{
+                
+                "default":"primary_default",
+                "values":[
+                
+                    {"id":"primary_default", "name":"Windows/Linux Default"},
+                    {"id":"primary_default_for_gnome", "name":"GNOME"},
+                    {"id":"primary_default_for_kde", "name":"KDE"},
+                    {"id":"primary_default_for_xwin", "name":"XWin"},
+                    {"id":"primary_emacs", "name":"Emacs"},
+                    {"id":"primary_visual_studio", "name":"Visual Studio"},
+                    {"id":"primary_eclipse", "name":"Eclipse"}
+                ]
+                },
+                "secondary":{
+                
+                "default":"secondary_mac_os_x_10.5_",
+                "values":[
+                
+                    {"id":"secondary_mac_os_x_10.5_", "name":"Default (Mac OS X 10.5+)"},
+                    {"id":"secondary_mac_os_x", "name":"Mac OS X"},
+                    {"id":"secondary_eclipse_mac_os_x", "name":"Eclipse (Mac OS X)"}
+                ]
+                }
+            }
+            }
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
